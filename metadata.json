@@ -1,0 +1,6 @@
+{
+  "name": "공정한 리셀러 AI 만들기",
+  "description": "학생들이 윤리 원칙을 반영하여 불공정한 리셀러 AI를 개선하는 교육용 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
